@@ -1,4 +1,5 @@
-- intro.mdx
-- sommes:
-    - exo1.mdx
-    - exo2.mdx
+nav:
+  - intro.mdx
+  - sommes:
+      - exo1.mdx
+      - exo2.mdx
